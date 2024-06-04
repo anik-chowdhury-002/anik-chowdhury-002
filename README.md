@@ -1,3 +1,4 @@
+![logo](https://github.com/anik-chowdhury-002/anik-chowdhury-002/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hellow 👋, My Self : Anik Chowdhury</h1>
 <h3 align="center">|| DS & ML Loading ... || BI Developer || UG-(B.Tech-HONS) CSE[BS]-25'@WBUT || Aspiring towards 24@GATE & ICRB || Aspiring Machine Learning Engineer ||</h3>
 
