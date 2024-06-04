@@ -1,5 +1,16 @@
 ![logo](https://github.com/anik-chowdhury-002/anik-chowdhury-002/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hellow 👋, My Self : Anik Chowdhury</h1>
+
+<!-- My name and brief -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Anik+Chowdhury" alt="Typing SVG" /></a>
+  
+</p>
+<p align="center">
+  <a href="https://github.com/Anik Chowdhury/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Machine%20Learning%20Engineer; %20Data%20Science%20and%20Business%20Intelligence;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" /></a>
+</p> 
+
 <h3 align="center">|| DS & ML Loading ... || BI Developer || UG-(B.Tech-HONS) CSE[BS]-25'@WBUT || Aspiring towards 24@GATE & ICRB || Aspiring Machine Learning Engineer ||</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
