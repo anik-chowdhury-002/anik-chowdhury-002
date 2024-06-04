@@ -2,7 +2,7 @@
 <h1 align="center">Hellow 👋, My Self : Anik Chowdhury</h1>
 <h3 align="center">|| DS & ML Loading ... || BI Developer || UG-(B.Tech-HONS) CSE[BS]-25'@WBUT || Aspiring towards 24@GATE & ICRB || Aspiring Machine Learning Engineer ||</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-chowdhury-002&label=Profile%20views&color=0e75b6&style=flat" alt="anik-chowdhury-002" /> </p>
 
