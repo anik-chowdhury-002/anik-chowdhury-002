@@ -24,7 +24,18 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anik-c-16aa2123a/](https://www.linkedin.com/in/anik-c-16aa2123a/)
 
-- ⚡ Fun fact **Specializing in ethical leadership, business planning, and corporate communications, I excel in bridging the gap between technical insights and business objectives. Proficient in conducting thorough SWOT, PEST, and GAP analyses, I am adept at rational decision-making and cost estimation, contributing to informed business strategies.**
+- ⚡ About Me:
+- ** Highly motivated and results-driven Computer Science and Engineering student with a keen interest in leveraging data science and business intelligence to drive strategic decision-making and foster organizational growth. Currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Business Systems from West Bengal University of Technology , I bring a solid foundation in programming, data analysis, and software engineering. **
+
+- ** With a diverse skill set encompassing programming languages such as Python, R, C++, and expertise in database management systems (SQL, MongoDB), I have honed my abilities in data analysis, statistical modeling, and machine learning. My hands-on experience includes implementing advanced statistical methods and machine learning algorithms to extract actionable insights from complex datasets. Technically proficient in languages such as Python, with a strong command of front-end technologies (HTML, CSS, Bootstrap, Streamlit) and back-end frameworks (Django, Flask, FastAPI), I thrive in developing robust and scalable applications. **
+
+- ** Specializing in ethical leadership, business planning, and corporate communications, I excel in bridging the gap between technical insights and business objectives. Proficient in conducting thorough SWOT, PEST, and GAP analyses, I am adept at rational decision-making and cost estimation, contributing to informed business strategies. **
+
+- ** As an advocate for continuous learning, I actively explore emerging technologies and methodologies in the field of data science, including big data analysis, data mining, and pattern recognition. My commitment to professional development is evident through ongoing projects and contributions, showcased on my GitHub profile. **
+
+- ** Looking forward to leveraging my expertise and passion for data-driven decision-making in a dynamic and collaborative environment. Open to opportunities in data science, business intelligence, and software engineering roles where I can make meaningful contributions and drive innovation. **
+
+-**Connect with me on LinkedIn or follow me on Twitter [@AnikChowdh_002] to stay updated on my latest projects and insights. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
