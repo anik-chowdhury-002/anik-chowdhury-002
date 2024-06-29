@@ -1,14 +1,16 @@
-<p align="center">
-  <a href="https://github.com/anik-chowdhury-002/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;%20Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Anik+Chowdhury..;" />
 </h1>
 <div align="center">
+
+<p align="center">
+  <a href="https://github.com/anik-chowdhury-002/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;%20Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
     
 ![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
 
