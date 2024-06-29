@@ -1,12 +1,3 @@
-![logo](https://github.com/anik-chowdhury-002/anik-chowdhury-002/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
-<h1 align="center">Hellow 👋, My Self : Anik Chowdhury</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Anik+Chowdhury" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/anik-chowdhury-002/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;%20Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
