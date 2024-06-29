@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Rohit+Chakrabarti..;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Anik+Chowdhury..;" />
 </h1>
 <div align="center">
     
@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <!-- GIF -->
-
-
+    
 
 <h2 align="center">A Passionate Web Developer :computer: from India</h2>
 
