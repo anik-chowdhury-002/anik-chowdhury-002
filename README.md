@@ -13,6 +13,17 @@
   </a>
 </p>
 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Anik+Chowdhury..;" />
+</h1>
+<div align="center">
+    
+![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
+
+</div>
+<!-- GIF -->
+
 <h3 align="center">|| DS & ML Loading ... || BI Developer || UG-(B.Tech-HONS) CSE[BS]-25'@WBUT || Aspiring towards 24@GATE & ICRB || Aspiring Machine Learning Engineer ||</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
