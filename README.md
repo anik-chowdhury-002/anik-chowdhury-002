@@ -1,90 +1,71 @@
-<!---
-rohit32999/rohit32999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![logo](https://github.com/anik-chowdhury-002/anik-chowdhury-002/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
+<h1 align="center">Hellow 👋, My Self : Anik Chowdhury</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Anik+Chowdhury..;" />
-</h1>
-<div align="center">
-    
-![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
-
-</div>
-<!-- GIF -->
-    
-
-<h2 align="center">A Passionate Web Developer :computer: from India</h2>
-
-```python
-Name = "Rohit Chakrabarti"
-Interests = ["Coding", "Problem Solving", "Graphic Editing", "Photography"]
-Languages = ["C", "C++", "Python", "Java", "HTML", "CSS", "JavaScript"]
-Tech Stacks = ["ReactJs", "NextJs", "NodeJs", "Tailwind CSS", "Bootstrap"]
-```
-<!-- <div align=center>
-  
-[![coding speed x 1000](/images/187495.gif)](https://github.com/rohit32999)
-</div> !-->
-
-<br>
-
-<!-- GIF -->
-![JavaScript](https://github.com/rohit32999/rohit32999/assets/97951485/bf08f648-6ff2-4fd6-8b31-496fab371713)
-
-
-# ⚒️ Tools, Languages and Frameworks :
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-</div>
-
-
-
-<br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
-
-
-
-
-
-
-<h1 align="left"> 🗣 Connect with me : </h1>
-
-<div align="center">
-     
-  <a href="https://www.instagram.com/_.rohit.2002/">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Anik+Chowdhury" alt="Typing SVG" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-chakrabarti-04b981230/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-      </a>
+</p>
 
-  <a href="https://twitter.com/rohittt_002">
-   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<p align="center">
+  <a href="https://github.com/anik-chowdhury-002/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;%20Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
   </a>
- 
-  <a href="mailto:pedro.sales.rohitchakrabarti6560@gmail.com">
-       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</br>
-  
+</p>
 
-  
-  </div>
+<h3 align="center">|| DS & ML Loading ... || BI Developer || UG-(B.Tech-HONS) CSE[BS]-25'@WBUT || Aspiring towards 24@GATE & ICRB || Aspiring Machine Learning Engineer ||</h3>
 
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<div align="center">
-<h2>⚡GitHub Stats :</h2>
-<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rohit32999&show_icons=true&rank_icon=github&theme=radical&card_width=320" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-chowdhury-002&label=Profile%20views&color=0e75b6&style=flat" alt="anik-chowdhury-002" /> </p>
 
-<p>&nbsp;<img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit32999&show_icons=true&theme=radical&locale=en&layout=compact" alt="Rohit" /> </p>
+<p align="left"> <a href="https://twitter.com/anikchowdh_002" target="blank"><img src="https://img.shields.io/twitter/follow/anikchowdh_002?logo=twitter&style=for-the-badge" alt="anikchowdh_002" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit32999&theme=radical" alt="Rohit" /></p>
+- 🔭 I’m currently working on **Finial Year Project**
 
-<br>
+- 🌱 I’m currently learning **Machine learning and Data Science**
 
+- 👯 I’m looking to collaborate on **Machine learning Projects**
 
+- 👨‍💻 All of my projects are available at [https://github.com/anik-chowdhury-002/anik-chowdhury-002](https://github.com/anik-chowdhury-002/anik-chowdhury-002)
 
-</div>
+- 📝 I regularly write articles on [https://www.linkedin.com/in/anik-c-16aa2123a/](https://www.linkedin.com/in/anik-c-16aa2123a/)
+
+- 💬 Ask me about **DBMS , Big Data , Deep learning , ANN , AL+ML**
+
+- 📫 How to reach me **https://anikchowdhury002.wixsite.com/anik-chowdhury**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/anik-c-16aa2123a/](https://www.linkedin.com/in/anik-c-16aa2123a/)
+
+- ⚡ About Me:
+- ** Highly motivated and results-driven Computer Science and Engineering student with a keen interest in leveraging data science and business intelligence to drive strategic decision-making and foster organizational growth. Currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Business Systems from West Bengal University of Technology , I bring a solid foundation in programming, data analysis, and software engineering. **
+
+- ** With a diverse skill set encompassing programming languages such as Python, R, C++, and expertise in database management systems (SQL, MongoDB), I have honed my abilities in data analysis, statistical modeling, and machine learning. My hands-on experience includes implementing advanced statistical methods and machine learning algorithms to extract actionable insights from complex datasets. Technically proficient in languages such as Python, with a strong command of front-end technologies (HTML, CSS, Bootstrap, Streamlit) and back-end frameworks (Django, Flask, FastAPI), I thrive in developing robust and scalable applications. **
+
+- ** Specializing in ethical leadership, business planning, and corporate communications, I excel in bridging the gap between technical insights and business objectives. Proficient in conducting thorough SWOT, PEST, and GAP analyses, I am adept at rational decision-making and cost estimation, contributing to informed business strategies. **
+
+- ** As an advocate for continuous learning, I actively explore emerging technologies and methodologies in the field of data science, including big data analysis, data mining, and pattern recognition. My commitment to professional development is evident through ongoing projects and contributions, showcased on my GitHub profile. **
+
+- ** Looking forward to leveraging my expertise and passion for data-driven decision-making in a dynamic and collaborative environment. Open to opportunities in data science, business intelligence, and software engineering roles where I can make meaningful contributions and drive innovation. **
+
+-**Connect with me on LinkedIn or follow me on Twitter [@AnikChowdh_002] to stay updated on my latest projects and insights. **
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anikchowdh_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikchowdh_002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anik-c-16aa2123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-c-16aa2123a" height="30" width="40" /></a>
+<a href="https://kaggle.com/downmemorylane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="downmemorylane" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100005559498654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100005559498654" height="30" width="40" /></a>
+<a href="https://instagram.com/down_memory_lane.ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="down_memory_lane.ml" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chowdhuryanik027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chowdhuryanik027" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik-chowdhury-002&show_icons=true&locale=en&layout=compact" alt="anik-chowdhury-002" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik-chowdhury-002&show_icons=true&locale=en" alt="anik-chowdhury-002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-chowdhury-002&" alt="anik-chowdhury-002" /></p>
+this is the code for my readme file.
