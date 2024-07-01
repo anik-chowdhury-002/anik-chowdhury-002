@@ -14,6 +14,7 @@
     
 ![giphy](https://github.com/rohit32999/rohit32999/assets/97951485/4a9df033-b019-441a-ba5a-1d4d9a111860)
 
+
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Anik and I'm a Aspiring ML Engineer , from India</h2>
@@ -98,6 +99,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
