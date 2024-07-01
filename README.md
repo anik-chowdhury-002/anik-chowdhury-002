@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/anik-chowdhury-002/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Machine+Learning+Engineer;%20Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines= Aspiring+Machine+Learning+Engineer;%20 Data+Science+and+Business+Intelligence;Always+learning+new+Stuffs&font=Fira+Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
