@@ -37,11 +37,10 @@
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anik-chowdhury-002/anik-chowdhury-002](https://github.com/anik-chowdhury-002/anik-chowdhury-002)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anik-c-16aa2123a/](https://www.linkedin.com/in/anik-c-16aa2123a/)
 
-- 💬 Ask me about **DBMS , Big Data , Deep learning , ANN , AL+ML**
+- 💬 Ask me about **DBMS , Big Data , Deep learning , ANN , AI+ML**
 
 - 📫 How to reach me **https://anikchowdhury002.wixsite.com/anik-chowdhury**
 
