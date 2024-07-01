@@ -78,3 +78,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik-chowdhury-002&" alt="anik-chowdhury-002" /></p>
 this is the code for my readme file.
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
